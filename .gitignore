@@ -1,0 +1,23 @@
+# Gradle build artifacts
+/build/
+/out/
+
+# IDEs
+/.idea/
+/.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+~/.gradle/
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Ignore compiled Java files
+*.class
+# Ignore build artifacts
+app/build/
